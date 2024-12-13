@@ -25,3 +25,7 @@ I am passionate about developing secure communication systems
 
   ![Nissim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nissimbrami&show_icons=true&theme=radical)
 
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nissimbrami&layout=compact&theme=radical)
+
+
