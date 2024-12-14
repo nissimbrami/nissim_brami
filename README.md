@@ -12,19 +12,7 @@ I am passionate about developing secure communication systems
 - **Programming Languages:** Python, Java, C, C++, JavaScript/TypeScript, Assembly.
 - **Databases:** Basic SQL.
 - **Expertise:** Concurrency, Networks, Algorithm Design.
-
-### 🚀 Featured Projects
-- [Encrypted Chat](https://github.com/nissimbrami/ENCRYPTEDCHAT)  
-  A secure and encrypted chat application.  
-
-- [Neural Network from Scratch](https://github.com/nissimbrami/Neural-Network-from-scratch-mlp-ResNet-)  
-  An advanced implementation of MLP and ResNet.  
-
-### 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/nissim-brami/)
-- [Email](mailto:nissimbrami1@gmail.com)
-
-
+ 
 ## 🔢 Statistics
 - **Total Repositories:** 6
 - **Most Used Languages:**
@@ -51,6 +39,11 @@ I am passionate about developing secure communication systems
 
 ### 🔗 Explore My Projects
 Feel free to explore the repositories linked above to see the diverse range of applications I've developed.
+
+### 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/nissim-brami/)
+- [Email](mailto:nissimbrami1@gmail.com)
+
 
 
 
