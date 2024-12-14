@@ -42,12 +42,12 @@ I am passionate about programming and developing more tools and apps
 
 -**C:**
 
-    -[ELF-File-Analyzer-Linker](https://github.com/nissimbrami/ELF-File-Analyzer-Linker)
+   -[ELF-File-Analyzer-Linker](https://github.com/nissimbrami/ELF-File-Analyzer-Linker)
 
 
 -**assembly:**
 
-    -[assembly Encoder and Virus Demonstration](https://github.com/nissimbrami/assembly-encoder-and-virus-demonstration-)
+   -[assembly Encoder and Virus Demonstration](https://github.com/nissimbrami/assembly-encoder-and-virus-demonstration-)
 
 ### 🔗 Explore My Projects
 Feel free to explore the repositories linked above to see the diverse range of applications I've developed.
