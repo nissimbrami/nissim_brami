@@ -45,8 +45,7 @@ Feel free to explore the repositories linked above to see the diverse range of a
 - [Email](mailto:nissimbrami1@gmail.com)
 
 
-![Nissim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nissimbrami&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nissimbrami&layout=compact&theme=radical)
+
 
 
 
