@@ -1,4 +1,4 @@
-![Banner][https://github.com/nissimbrami/nissim_brami/blob/main/gitHab%20banner.png](https://github.com/nissimbrami/nissim_brami/blob/main/gitHab%20banner.png)
+![Banner](https://raw.githubusercontent.com/nissimbrami/nissim_brami/main/gitHab%20banner.png)
 # nissim_brami
 
 
