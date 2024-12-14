@@ -24,9 +24,9 @@ I am passionate about developing secure communication systems
 - [LinkedIn](https://www.linkedin.com/in/nissim-brami/)
 - [Email](mailto:nissimbrami1@gmail.com)
 
-  ![Nissim's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nissimbrami&show_icons=true&theme=radical)
-  
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nissimbrami&layout=compact&theme=radical)
+![Nissim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nissimbrami&show_icons=true&theme=radical&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nissimbrami&layout=compact&theme=radical&cache_seconds=86400)
+
 
 
 
