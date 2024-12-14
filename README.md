@@ -4,7 +4,7 @@
 
 ### About Me
 I am a highly motivated computer scientist in the last semester at Ben-Gurion University.  
-I am passionate about developing secure communication systems
+I am passionate about programming and developing more tools and apps
 
 - 🔒 Special interest in concurrency, networks, and algorithm design.
 
