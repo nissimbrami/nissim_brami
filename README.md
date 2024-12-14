@@ -25,5 +25,33 @@ I am passionate about developing secure communication systems
 - [Email](mailto:nissimbrami1@gmail.com)
 
 
+## 🔢 Statistics
+- **Total Repositories:** 6
+- **Most Used Languages:**
+  - Python: 33.3% (2 projects)
+  - Java: 33.3% (2 projects)
+  - JavaScript: 16.7% (1 project)
+  - C++: 16.7% (1 project)
+- **Key Technologies:** Machine Learning, Multi-threading, Client-Server Architecture, Compiler Design, GUI Development.
+
+## 🖥️ Programming Languages in Use
+- **Python:** 
+  - [Neural Network from Scratch](https://github.com/nissimbrami/Neural-Network-from-scratch-mlp-ResNet-)
+  - [Encrypted Chat](https://github.com/nissimbrami/Enecrypted_Chat)
+
+- **Java:**
+  - [Set Card Game](https://github.com/nissimbrami/SET_Card_Game)
+  - [Reactor Pattern Client-Server](https://github.com/nissimbrami/Reactor-Pattern-Client-Server)
+
+- **JavaScript:**
+  - [L5 Language Compiler Extension](https://github.com/nissimbrami/L52-Language-Compiler-Extension)
+
+- **C++:**
+  - [Food Warehouse Management Application](https://github.com/nissimbrami/Food-warehouse-management-Application)
+
+### 🔗 Explore My Projects
+Feel free to explore the repositories linked above to see the diverse range of applications I've developed.
+
+
 
 
