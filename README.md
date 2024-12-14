@@ -16,10 +16,12 @@ I am passionate about programming and developing more tools and apps
 ## 🔢 Statistics
 - **Total Repositories:** 6
 - **Most Used Languages:**
-  - Python: 33.3% (2 projects)
-  - Java: 33.3% (2 projects)
-  - JavaScript: 16.7% (1 project)
-  - C++: 16.7% (1 project)
+  - Python: 25% (2 projects)
+  - Java: 25% (2 projects)
+  - JavaScript: 12.5% (1 project)
+  - C++: 12.5% (1 project)
+  - C: 12.5%(1 project)
+  - assembly: 12.5%(1 project)
 - **Key Technologies:** Machine Learning, Multi-threading, Client-Server Architecture, Compiler Design, GUI Development.
 
 ## 🖥️ Programming Languages in Use
