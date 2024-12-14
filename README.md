@@ -14,14 +14,14 @@ I am passionate about programming and developing more tools and apps
 - **Expertise:** Concurrency, Networks, Algorithm Design.
  
 ## 🔢 Statistics
-- **Total Repositories:** 6
+- **Total Repositories:** 8
 - **Most Used Languages:**
   - Python: 25% (2 projects)
   - Java: 25% (2 projects)
   - JavaScript: 12.5% (1 project)
   - C++: 12.5% (1 project)
   - C: 12.5%(1 project)
-  - assembly: 12.5%(1 project)
+  - Assembly: 12.5%(1 project)
 - **Key Technologies:** Machine Learning, Multi-threading, Client-Server Architecture, Compiler Design, GUI Development.
 
 ## 🖥️ Programming Languages in Use
@@ -38,6 +38,12 @@ I am passionate about programming and developing more tools and apps
 
 - **C++:**
   - [Food Warehouse Management Application](https://github.com/nissimbrami/Food-warehouse-management-Application)
+ 
+-**C:**
+ -[ELF-File-Analyzer-Linker]https://github.com/nissimbrami/ELF-File-Analyzer-Linker
+
+-**assembly:**
+ -[assembly Encoder and Virus Demonstration]https://github.com/nissimbrami/assembly-encoder-and-virus-demonstration-
 
 ### 🔗 Explore My Projects
 Feel free to explore the repositories linked above to see the diverse range of applications I've developed.
